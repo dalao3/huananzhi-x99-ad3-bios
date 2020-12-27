@@ -12,7 +12,7 @@ Firstly, this link (https://www.bilibili.com/video/av50589090) says there are th
 
 But this link (https://github.com/ThinkPadThink/Guide2011-3) suggested there are only two versions. We assume the V1 and V2 bios are the same, while V3 is another one.  
 
-首先，此链接（https://www.bilibili.com/video/av50589090）展示此主板有三个版本。但是这里的链接（https://github.com/ThinkPadThink/Guide2011-3）显示只有两个版本。我们认为V1和V2主板的BIOS相同只有带不带马甲的区别，而V3主板是另一个。
+首先，此链接(https://www.bilibili.com/video/av50589090)展示此主板有三个版本。但是这里的链接(https://github.com/ThinkPadThink/Guide2011-3)显示只有两个版本。我们认为V1和V2主板的BIOS相同只有带不带马甲的区别，而V3主板是另一个。
 
 ## Tools needed to flash the bios chip
 
@@ -69,5 +69,5 @@ I made two versions:
 `huanan-x99-me-cleaned-microcoderemoved-v3payne0-c6disabled-unlockallmenu.bin` 这个没有压降，如果不稳定用这个  
 `huanan-x99-me-cleaned-microcoderemoved-v3payne50-c6disabled-unlockallmenu.bin` 这个有50mv压降，如果一切稳定推荐这个  
 
-Note: All these files are BIOS chip files that works with external programmer (like CH341). I haven't tried or compared the difference between the dump using external programmer or through internal tools like fptw64.exe. But it maybe work as well.
+Note: All these files are BIOS chip files that works with external programmer (like CH341). I haven't tried or compared the difference between the dump using external programmer or through internal tools like fptw64.exe. But it maybe work as well.  
 注意：所有这些文件都是用与编程器（例如CH341）刷写的文件。我没有尝试过诸如fptw64.exe之类的内部工具。但也可能能用。

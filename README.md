@@ -12,7 +12,7 @@ Firstly, this link (https://www.bilibili.com/video/av50589090) says there are th
 
 But this link (https://github.com/ThinkPadThink/Guide2011-3) suggested there are only two versions. We assume the V1 and V2 bios are the same, while V3 is another one.  
 
-首先，此链接(https://www.bilibili.com/video/av50589090)展示此主板有三个版本。但是这里的链接(https://github.com/ThinkPadThink/Guide2011-3)显示只有两个版本。我们认为V1和V2主板的BIOS相同只有带不带马甲的区别，而V3主板是另一个。
+首先，此链接https://www.bilibili.com/video/av50589090 显示此主板有三个版本。但是这里的链接https://github.com/ThinkPadThink/Guide2011-3 显示只有两个版本。我们认为V1和V2主板的BIOS相同只有带不带马甲的区别，而V3主板是另一个。
 
 ## Tools needed to flash the bios chip
 

@@ -34,7 +34,7 @@ Currently I have seen three versions of the original BIOS. These are the bios ch
 [original-bios/2.18.1263-23-11-2019.bin](original-bios/2.18.1263-23-11-2019.bin) BIOS version 2.18.1263 BIOS date 23/11/2019  
 It appears the last file is the latest, so the following mod are based on this latest file.  
 
-目前，我见过的原版BIOS有三个版本。看来最后一个文件是最新的，因此下面的mod基于该文件。
+目前，我见过的原版BIOS有三个版本（在`original-bios`文件夹里）。看来最后一个文件是最新的，因此下面的mod基于该文件。
 
 ## Modified BIOS
 
@@ -64,8 +64,8 @@ I made two versions:
 [mod-bios/huanan-x99-me-cleaned-microcoderemoved-v3payne0-c6disabled-unlockallmenu.bin](mod-bios/huanan-x99-me-cleaned-microcoderemoved-v3payne0-c6disabled-unlockallmenu.bin) This one has no undervolt.  
 [mod-bios/huanan-x99-me-cleaned-microcoderemoved-v3payne50-c6disabled-unlockallmenu.bin](mod-bios/huanan-x99-me-cleaned-microcoderemoved-v3payne50-c6disabled-unlockallmenu.bin) This one has 50 CPU mv and 50 mv RAM undervolt.  
 
-接下来，我按照这个教程（http://www.miyconst.com/Blog/View/2081/xeon-e5-2600-v3-turbo-boost-unlock）删除微码，并刷入`鸡血补丁`
-然后禁用的C6（可能会导致鸡血补丁有问题），并解锁所有隐藏菜单。做了两个版本，按需取用：  
+接下来，我按照这个教程(http://www.miyconst.com/Blog/View/2081/xeon-e5-2600-v3-turbo-boost-unlock) 删除微码，并刷入`鸡血补丁`
+然后禁用的C6（可能会导致鸡血补丁有问题），并解锁所有隐藏菜单。做了两个版本，在`mod-bios`文件夹里按需取用：  
 `huanan-x99-me-cleaned-microcoderemoved-v3payne0-c6disabled-unlockallmenu.bin` 这个没有压降，如果不稳定用这个  
 `huanan-x99-me-cleaned-microcoderemoved-v3payne50-c6disabled-unlockallmenu.bin` 这个有50mv压降，如果一切稳定推荐这个  
 
